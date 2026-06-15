@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+  pages: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -14,6 +18,7 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Use Node.js
         uses: actions/setup-node@v4
