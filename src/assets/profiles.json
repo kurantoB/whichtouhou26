@@ -1,0 +1,64 @@
+{
+    "profiles": [
+        {
+            "name": "Reimu Hakurei",
+            "label": "Human shrine maiden and incident solver",
+            "thumbnail": "src/assets/images/reimu.png"
+        },
+        {
+            "name": "Marisa Kirisame",
+            "label": "Ordinary human magician",
+            "thumbnail": "src/assets/images/marisa.png"
+        },
+        {
+            "name": "Patchouli Knowledge",
+            "label": "Magician librarian",
+            "thumbnail": "src/assets/images/patchouli.png"
+        },
+        {
+            "name": "Sakuya Izayoi",
+            "label": "Human maid",
+            "thumbnail": "src/assets/images/sakuya.png"
+        },
+        {
+            "name": "Remilia Scarlet",
+            "label": "Vampire mistress of the mansion",
+            "thumbnail": "src/assets/images/remilia.png"
+        },
+        {
+            "name": "Alice Margatroid",
+            "label": "Puppeteer magician",
+            "thumbnail": "src/assets/images/alice.png"
+        },
+        {
+            "name": "Youmu Konpaku",
+            "label": "Half-human half-phantom servant",
+            "thumbnail": "src/assets/images/youmu.png"
+        },
+        {
+            "name": "Yukari Yakumo",
+            "label": "Youkai sage of boundaries",
+            "thumbnail": "src/assets/images/yukari.png"
+        },
+        {
+            "name": "Reisen Udongein Inaba",
+            "label": "Ex-moon rabbit",
+            "thumbnail": "src/assets/images/reisen.png"
+        },
+        {
+            "name": "Kaguya Houraisan",
+            "label": "Lunarian princess descended to Earth",
+            "thumbnail": "src/assets/images/kaguya.png"
+        },
+        {
+            "name": "Aya Shameimaru",
+            "label": "Tengu journalist",
+            "thumbnail": "src/assets/images/aya.png"
+        },
+        {
+            "name": "Sanae Kochiya",
+            "label": "Living god priestess from the Outside",
+            "thumbnail": "src/assets/images/sanae.png"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "questions": [
+        {
+            "question": "Would you agree with this sentiment? \"I'm always burned out.\"",
+            "options": [
+                "Agree",
+                "Neither agree nor disagree",
+                "Disagree"
+            ]
+        },
+        {
+            "question": "When meeting new people or chasing new experiences, do you sometimes dread the whole thing turning out to be a disappointment?",
+            "options": [
+                "Yes",
+                "Yes, but it's rare",
+                "No"
+            ]
+        },
+        {
+            "question": "Would you agree with this sentiment? \"There are many times where people are slow to catch on to my thought process.\"",
+            "options": [
+                "Agree",
+                "Slightly agree - it's not enough times for me to notice",
+                "Disagree"
+            ]
+        },
+        {
+            "question": "Would you agree with this sentiment? \"People generally know my tastes and sensibilities if they were to get me a gift.\"",
+            "options": [
+                "Agree",
+                "Disagree",
+                "I don't know"
+            ]
+        },
+        {
+            "question": "Imagine you are running a market stall in the Human Village and selling a bunch of random trinkets. If Aya were to come by for a report, would you be able to make the case for your wares?",
+            "options": [
+                "Yes, I can. Every one of them",
+                "It depends on the item"
+            ]
+        },
+        {
+            "question": "Would you agree with this sentiment? \"I'm told a good number of times by someone that something reminded them of me (or something along those lines).\"",
+            "options": [
+                "Agree",
+                "Disagree"
+            ]
+        },
+        {
+            "question": "Would you agree with this sentiment? \"When making executive decisions, it's not out of place for me to put it through a mental filter along the lines of 'Is this on-brand for me?'\"",
+            "options": [
+                "Agree",
+                "Disagree"
+            ]
+        }
+    ]
+}
