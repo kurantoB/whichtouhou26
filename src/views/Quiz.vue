@@ -105,7 +105,8 @@ const profiles = profilesJson.profiles as { name: string; label: string; thumbna
 
 const getThumb = (path?: string) => {
   if (!path) return ''
-  return new URL('/' + path, import.meta.url).href
+  const p = path.startsWith('/') ? path.slice(1) : path
+  return import.meta.env.BASE_URL + p
 }
 
 const currentQuestionData = computed(() => {
