@@ -7,7 +7,7 @@
           Put your curiosity to rest with this personality quiz!
         </p>
         <p class="max-w-2xl text-sm text-slate-600">
-          No, this isn't Myers-Briggs or Big Five. It's a just a made-up boutique evaluation rubric. This is a doujin after all.
+          No, this isn't Myers-Briggs or Big Five - it's just a boutique evaluation rubric. This is a doujin after all.
         </p>
         <div class="space-y-2 pt-4 text-slate-700">
           <h2 class="text-xl font-semibold text-amber-950">Quiz Specs</h2>
