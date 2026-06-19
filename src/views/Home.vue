@@ -29,7 +29,7 @@
       <div class="space-y-3 pt-4">
         <h2 class="text-2xl font-semibold text-amber-950">If you are at TouhouFest 2026:</h2>
         <p class="text-slate-700">
-          Come swing by the Touhou Game Dev booth at the Community Tables section! Show the booth your results for this quiz to receive a "kin tag", and check out their games!
+          Come swing by the Touhou Game Dev booth at the Assembly Hall! Show the booth your results for this quiz to receive a "kin tag", and check out their games!
         </p>
         <p class="text-slate-700">
           Special thanks to the <a href="https://discord.gg/touhougamejam" class="font-semibold text-amber-600 underline hover:text-amber-700">Touhou Fan Game Jam</a> community for granting table space.
