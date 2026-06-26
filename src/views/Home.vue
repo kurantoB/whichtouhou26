@@ -25,7 +25,7 @@
       Take Quiz
     </router-link>
 
-    <div class="space-y-4 rounded-3xl border border-amber-200 bg-white/95 p-6 shadow-sm shadow-amber-200/70">
+    <!-- <div class="space-y-4 rounded-3xl border border-amber-200 bg-white/95 p-6 shadow-sm shadow-amber-200/70">
       <div class="space-y-3 pt-4">
         <h2 class="text-2xl font-semibold text-amber-950">If you are at TouhouFest 2026:</h2>
         <p class="text-slate-700">
@@ -35,6 +35,6 @@
           Special thanks to the <a href="https://discord.gg/touhougamejam" class="font-semibold text-amber-600 underline hover:text-amber-700">Touhou Fan Game Jam</a> community for granting table space.
         </p>
       </div>
-    </div>
+    </div> -->
   </section>
 </template>
